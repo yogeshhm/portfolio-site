@@ -35,7 +35,7 @@ export default function Footer() {
         <span className="mx-4 text-gray-500">•</span>
 
         <span className="text-gray-300">
-          Built by <span className="text-[#c5f82a] font-medium">Love</span> • © 2025
+          Built with <span className="text-[#c5f82a] font-medium">Love</span> • © 2025
         </span>
       </div>
     </footer>
