@@ -33,13 +33,13 @@ export default function Contact() {
           <div className="flex items-center gap-4 bg-[#2b2d35] p-4 rounded-xl hover:bg-[#30323b] transition-colors">
             <Github className="text-[#c5f82a] text-3xl" />
             <div>
-              <h3 className="text-[#c5f82a] font-semibold text-sm">GitHub</h3>
               <a
                 href="https://github.com/yogeshhm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white text-sm"
               >
+              <h3 className="text-[#c5f82a] font-semibold text-sm">GitHub</h3>
         
               </a>
             </div>
@@ -49,13 +49,13 @@ export default function Contact() {
           <div className="flex items-center gap-4 bg-[#2b2d35] p-4 rounded-xl hover:bg-[#30323b] transition-colors">
             <Linkedin className="text-[#c5f82a] text-3xl" />
             <div>
-              <h3 className="text-[#c5f82a] font-semibold text-sm">LinkedIn</h3>
               <a
                 href="https://www.linkedin.com/in/yogeshhm/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white text-sm"
               >
+              <h3 className="text-[#c5f82a] font-semibold text-sm">LinkedIn</h3>
         
               </a>
             </div>
