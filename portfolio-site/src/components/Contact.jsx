@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="min-h-[70vh] bg-[#1b1c22] text-gray-200 flex flex-col items-center justify-center py-16 px-8"
+      className="min-h-[70vh] bg-[#1b1c22] text-gray-200 flex flex-col items-center justify-center py-16 px-8" tyle={{ scrollMarginTop: "64px" }}
     >
       <h2 className="text-lg font-mono mb-10 text-gray-100">{"Contact () "}</h2>
 
